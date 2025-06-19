@@ -1,0 +1,19 @@
+# Настройки урона
+damage:
+  normal: "&eУДАР {damage}"
+  critical: "&eКРИТ {damage} "
+  blocked: "&eБЛОК"
+
+# Настройки здоровья
+health:
+  format: "&cХП {health}"
+
+# Настройки смерти
+death:
+  text: "&4☠ {player}"
+  display-time: 60
+
+# Общие настройки
+settings:
+  display-time: 30
+  y-offset: 1.5

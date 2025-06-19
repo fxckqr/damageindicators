@@ -1,0 +1,7 @@
+name: DamageIndicators
+version: 1.0
+main: dev.diamonddev.damageindicators.Main
+api-version: 1.16
+author: fxckqr
+description: Плагин для отображения урона
+socials: https://discord.gg/Pw9hMUyqaT
